@@ -1,7 +1,7 @@
 # Analysing-global-semiconductor-shortage
 A variety of factors have converged to make the coveted computer chips scarce. Soaring demand coupled with supply bottlenecks have led to a situation in which orders for everything from cars to televisions to touch-screen computers and more are on backup for six months or more. The market for semiconductors has been volatile in the last 2 years and experts predict supply chain challenges across the semiconductor industry will extend to late 2023 and early 2024. 
 
-In this statistical analysis, we will analyse the current semiconductor market scenario from a financial perspective using various statistical tools. This analysis is done using a secondary dataset named “Semiconductor shortage” provided by kaggle. The dataset carries semiconductor market data from 1985 to 2021.
+In this statistical analysis, we will analyse the current semiconductor market scenario using various statistical tools available in excel. This analysis is done using a secondary dataset named “Semiconductor shortage” provided by kaggle. The dataset carries semiconductor market data from 1985 to 2021.
 
 THE DATASET HAS 10 COLUMNS Each one is as follows
 Date: given in dd/mm/yy format.
